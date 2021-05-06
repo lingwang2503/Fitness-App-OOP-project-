@@ -1,0 +1,27 @@
+Moutain Climber,24,easy,ABS
+Reverse Crunches,18,easy,ABS
+Leg Raises,16,easy,ABS
+Heel Touch,20,intermediate,ABS
+Reclined Oblique Twist,16,intermediate,ABS
+Heels To The Heavens,10,intermediate,ABS
+Cross Knee Plank,28,advanced,ABS
+Cross Arm Crunches,18,advanced,ABS
+Crunches Left And Right,20,advanced,ABS
+Squats,12,easy,BUTT
+Butt Bridge,10,easy,BUTT
+Mountain Climber,14,easy,BUTT
+Donkey Kicks Left And Right,24,intermediate,BUTT
+Lunges,12,intermediate,BUTT
+Split Squat Left And Right,16,intermediate,BUTT
+Squats,16,advanced,BUTT
+Curtsy Lunges,14,advanced,BUTT
+Hip Bridge + Leg Lift Left and Right,24,advanced,BUTT
+Donkey Kicks Left And Right,24,easy,THIGH
+Backward Lunge,14,easy,THIGH
+Modified Burpees,6,easy,THIGH
+Sumo Squat,12,intermediate,THIGH
+Frog Press,12,intermediate,THIGH
+Lunges,12,intermediate,THIGH
+Bottom Leg Lift Left and Right,24,advanced,THIGH
+Jumping Squats,12,advanced,THIGh
+Burpees,6,advanced,THIGH
